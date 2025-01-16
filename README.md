@@ -1,12 +1,5 @@
-# Object-Oriented-JavaScript-and-ES6
-### Learning Resources 
- Author : Ganesh Bhadra     
- License : Free        
- Created for Practice & Learning          
- github.com/hunk7          
-
-THANK YOU
-
+## Object-Oriented-JavaScript-and-ES6
+### Learning Resources  
 - HTML5 
 - JavaScript
 
